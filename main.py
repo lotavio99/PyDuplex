@@ -1,3 +1,8 @@
+'''
+Desenvolvido por: Luiz Otavio
+Script para encontrar e gerenciar arquivos duplicados dentro de uma mesma estrutura de pastas.
+Data de Inicio: 05/05/2022
+'''
 from hashlib import md5
 import os
 
